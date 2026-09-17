@@ -5,8 +5,8 @@ Chào mừng bạn đến với kho lưu trữ dự án tiểu luận về **H�
 ---
 
 ## 📌 1. Thông Tin Chung
-* **Chủ đề:** Ứng dụng hệ thức lượng trong tam giác vào việc giải quyết các bài toán thực tế thuộc chương trình Toán 10.
-* **Mục tiêu:** Hiểu rõ bản chất của các định lý (Sin, Côsin, v.v.) và vận dụng linh hoạt để giải quyết các vấn đề đo đạc trong thực tiễn (khoảng cách, chiều cao, góc) mà không cần can thiệp trực tiếp.
+* **Chủ đề:** Ứng dụng hệ thức lượng trong tam giác vào việc giải quyết các bài toán đo đạc thực tế thuộc chương trình Toán 10.
+* **Mục tiêu:** Hiểu rõ bản chất của các định lý (Sin, Côsin) và vận dụng linh hoạt để giải quyết chuyên sâu các bài toán tính khoảng cách và đo chiều cao trong thực tiễn khi không thể tiếp cận trực tiếp.
 * **Định dạng đầu ra:** File PDF / Word (khoảng 10 - 15 trang).
 
 ---
@@ -14,54 +14,54 @@ Chào mừng bạn đến với kho lưu trữ dự án tiểu luận về **H�
 ## 🗺️ 2. Đề Cương Chi Tiết Bài Tiểu Luận
 
 ### Mở Đầu
-* Lý do chọn đề tài (Tầm quan trọng của hình học trong đo đạc thực tiễn).
+* Lý do chọn đề tài (Tầm quan trọng của hình học trong công tác trắc địa, đo đạc).
 * Mục đích và nhiệm vụ nghiên cứu.
 * Đối tượng và phạm vi nghiên cứu (Kiến thức Hình học chương trình Toán 10).
 
 ### Chương 1: Cơ Sở Lý Thuyết Về Hệ Thức Lượng Trong Tam Giác
 * Định lý Côsin và Định lý Sin.
-* Công thức tính độ dài đường trung tuyến.
 * Các công thức tính diện tích tam giác (Công thức Heron, tính diện tích qua bán kính đường tròn nội tiếp/ngoại tiếp).
-* Khái niệm và phương pháp "Giải tam giác".
+* Khái niệm và quy trình "Giải tam giác" cơ bản.
 
-### Chương 2: Các Ứng Dụng Thực Tế Của Hệ Thức Lượng
-* **Trong Đo Đạc & Trắc Địa:** Tính khoảng cách giữa hai địa điểm không thể đến trực tiếp (ví dụ: hai bên bờ sông, đầm lầy); đo chiều cao của một vật thể (tháp, đỉnh núi, tòa nhà) khi không thể tiếp cận gốc.
-* **Trong Vật Lý & Cơ Học:** Ứng dụng trong việc tổng hợp lực và phân tích các lực tác dụng lên một vật; xác định vận tốc thực tế của vật thể khi chịu tác động của nhiều yếu tố (ví dụ: máy bay chịu ảnh hưởng của hướng gió).
-* **Trong Giao Thông & Hàng Hải:** Xác định vị trí, tính toán khoảng cách giữa các tàu thuyền trên biển để tránh va chạm; định hướng đường đi ngắn nhất.
+### Chương 2: Các Ứng Dụng Thực Tế Của Hệ Thức Lượng Trong Đo Đạc
+* **Đo chiều cao của một vật thể:** Phương pháp xác định chiều cao của đỉnh núi, tòa nhà cao tầng, hoặc tháp khi không thể đi đến tận gốc của vật thể.
+* **Đo khoảng cách giữa hai điểm không thể tiếp cận:** Tính toán khoảng cách giữa hai vị trí bị ngăn cách bởi địa hình phức tạp (ví dụ: hai bên bờ sông, đầm lầy, hoặc hẻm núi).
+* **Đo khoảng cách từ một điểm tiếp cận được đến một điểm không tiếp cận được:** Ứng dụng đo khoảng cách từ một vị trí quan sát trên bờ đến một chiếc thuyền đang neo đậu trên mặt nước.
 
 ### Chương 3: Bài Tập Minh Họa Và Phân Tích
-* Xây dựng 3 - 5 bài toán thực tế cụ thể (Ví dụ: Bài toán đo chiều cao Tháp Rùa, bài toán khoảng cách hai chiếc thuyền, bài toán tổng hợp lực kéo).
-* Dựng mô hình hình học minh họa, giải chi tiết bằng các định lý đã học và phân tích, đánh giá kết quả đạt được.
+* Xây dựng 3 - 5 bài toán đo đạc thực tế (Ví dụ: Bài toán đo chiều cao Tháp Rùa, bài toán đo khoảng cách hai bên bờ sông Hồng, bài toán đo khoảng cách từ ngọn hải đăng đến tàu thuyền).
+* Dựng mô hình hình học minh họa bằng phần mềm, giải chi tiết và đánh giá sai số (nếu có).
 
 ### Kết Luận & Kiến Nghị
 * Tóm tắt lại các kiến thức và kết quả đã phân tích.
-* Khẳng định vai trò thiết thực của việc học Toán đối với đời sống thực tế.
+* Khẳng định vai trò thiết thực của toán học trong ngành trắc địa và đời sống thực tế.
 
 ---
 
-## 📈 3. Kế Hoạch & Tiến Độ Thực Hiện (Thời hạn: 2 Tuần)
+## 📈 3. Kế Hoạch & Tiến Độ Thực Hiện (Mỗi tuần làm 3 ngày)
 
-**Tuần 1: Xây dựng nền tảng và viết lý thuyết**
-- [ ] **Ngày 1 - 2:** Chốt đề cương chi tiết; thu thập sách giáo khoa Toán 10 và tìm kiếm/giải nháp sẵn 3 - 5 bài toán thực tế (đo chiều cao, khoảng cách).
-- [ ] **Ngày 3 - 4:** Hoàn thành phần Mở đầu và Chương 1 (Hệ thống hóa ngắn gọn các định lý Côsin, Sin, công thức diện tích).
-- [ ] **Ngày 5 - 7:** Viết xong Chương 2 (Trình bày các hướng ứng dụng trong trắc địa, vật lý, hàng hải). Phác thảo trước các hình vẽ cần thiết.
+**Tuần 1: Xây dựng nền tảng và lý thuyết cốt lõi**
+- [ ] **Ngày 1:** Chốt đề cương chi tiết; tìm kiếm và chọn lọc 5 tài liệu tham khảo chuẩn xác; sưu tầm 3 - 5 bài toán đo đạc (chiều cao, khoảng cách).
+- [ ] **Ngày 2:** Hoàn thành phần **Mở đầu** và **Chương 1** (Viết ngắn gọn, súc tích các định lý Côsin, Sin và công thức diện tích).
+- [ ] **Ngày 3:** Viết xong **Chương 2** (Trình bày chi tiết các phương pháp và mô hình đo đạc thực tế); phác thảo tay các hình vẽ cần thiết.
 
-**Tuần 2: Xử lý bài tập minh họa và hoàn thiện**
-- [ ] **Ngày 8 - 10:** Tập trung cao độ cho Chương 3 (Vẽ hình chính xác bằng GeoGebra, trình bày lời giải chi tiết và nhận xét kết quả cho các bài toán thực tế đã chọn).
-- [ ] **Ngày 11 - 12:** Viết phần Kết luận & Kiến nghị; hoàn thiện danh mục Tài liệu tham khảo.
-- [ ] **Ngày 13:** Đọc rà soát toàn bộ bài (kiểm tra lỗi chính tả, dò lại các số liệu tính toán xem có sai sót góc/độ/radian không), tạo mục lục tự động.
-- [ ] **Ngày 14:** Căn chỉnh định dạng văn bản (font chữ, lề, giãn dòng), xuất ra file PDF và nộp bài.
+**Tuần 2: Xử lý bài tập, minh họa và nộp bài**
+- [ ] **Ngày 1:** Giải quyết dứt điểm **Chương 3** (Dựng hình chính xác bằng GeoGebra, trình bày lời giải chi tiết cho các bài toán đã chọn).
+- [ ] **Ngày 2:** Viết phần **Kết luận & Kiến nghị**; trích dẫn và định dạng chuẩn danh mục **Tài liệu tham khảo**.
+- [ ] **Ngày 3:** Đọc rà soát toàn bộ bài (kiểm tra lỗi chính tả, sai số tính toán góc/độ/radian), tạo mục lục tự động, xuất file PDF và **nộp bài**.
 
 ---
 
-## 📚 4. Tài Liệu Tham Khảo (Dự Kiến)
-1. Bộ Giáo dục và Đào tạo, *Sách giáo khoa Toán 10* (Các bộ sách: Kết nối tri thức với cuộc sống, Chân trời sáng tạo, Cánh diều).
-2. Các sách bài tập Toán 10 và tài liệu chuyên đề Hình học phẳng cơ bản.
-3. Các bài giảng, video hướng dẫn về thực hành đo đạc trắc địa ngoài trời và ứng dụng toán học cơ sở.
+## 📚 4. Tài Liệu Tham Khảo
+1. Hà Huy Khoái (Tổng chủ biên), Cung Thế Anh (2022). *Toán 10 - Tập 1 (Bộ Kết nối tri thức với cuộc sống)*. NXB Giáo dục Việt Nam.
+2. Trần Nam Dũng (Tổng chủ biên), Trần Đức Huyên (2022). *Toán 10 - Tập 1 (Bộ Chân trời sáng tạo)*. NXB Giáo dục Việt Nam.
+3. Đỗ Đức Thái (Tổng chủ biên), Lê Tuấn Hoa (2022). *Toán 10 - Tập 1 (Bộ Cánh diều)*. NXB Đại học Sư phạm.
+4. Đoàn Quỳnh (Tổng chủ biên), Văn Như Cương (2010). *Bài tập Hình học 10 Nâng cao*. NXB Giáo dục Việt Nam.
+5. Nguyễn Mộng Hy, Khu Quốc Anh, Trần Văn Hạo (2006). *Hình học 10*. NXB Giáo dục Việt Nam. (Sử dụng phần đọc thêm về ứng dụng thực tế và giải tam giác).
 
 ---
 
 ## 🛠️ 5. Hướng Dẫn Sử Dụng Kho Lưu Trữ Này
 * `/docs`: Thư mục chứa các bản phác thảo nội dung từng chương (dạng `.md` hoặc `.docx`).
-* `/images`: Chứa các bản vẽ hình học (GeoGebra), sơ đồ phân tích lực hoặc hình ảnh minh họa thực tế cho bài tiểu luận.
-* Do thời gian thực hiện ngắn, hãy cập nhật nhật ký tiến độ vào mục **Kế Hoạch** hàng ngày bằng cách đánh dấu `[x]` vào các công việc đã hoàn thành để đảm bảo không bị trễ hạn!
+* `/images`: Chứa các bản vẽ hình học (GeoGebra), sơ đồ minh họa đo đạc thực tế cho bài tiểu luận.
+* Hãy đánh dấu `[x]` vào các công việc trong **Kế Hoạch** vào mỗi ngày làm việc để theo dõi tiến độ một cách kỷ luật nhất!
